@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email1: alois.haselboeck@siemens.com
     email2: alois.haselboeck@gmail.com
-    phone: 0043 664 80117 35692
+    phone: 0043 xxx xxxxx xxxx #664 80117 35692
     website: alvis65.github.io #do not add http://
     linkedin: alois-haselböck
     xing: Alois_Haselboeck
@@ -110,7 +110,13 @@ experiences:
 projects:
     title: Projects
     intro: |
-      TODO
+      During my time at Siemens, I've worked on a wide variety of projects, many of them in the area of configuration and related topics. The areas of application were for industry and infrastructure.
+      
+      Two of the main areas are:
+      - Railway safety systems: The main challenges in rail applications lie in the safety requirements and, on the other hand, in the complexity and long service life of the products. Our engineering tools support project engineers in configuring their systems in a highly automated and verified manner.
+      - Smart production: Flexible production planning is especially important when producing products with small lot sizes. The so-called producibility check checks whether and how a new product can be manufactured in a factory. The results are optimized production plans.
+      
+      <br>
       
       __Selection of some funded projects I've been involved in:__
     assignments:
